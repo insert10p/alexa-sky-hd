@@ -83,104 +83,104 @@ appliances = [
             "turnOff",
             ],
         "cookie": {}
-    },
-    {
-        "applianceId": "skybox-tvguide",
-        "manufacturerName": "Sky",
-        "version": "1",
-        "friendlyName": "TV Guide",
-        "description": "Sky TV Guide scene via Sky Digibox",
-        "isReachable": True,
-        "displayCategories":["SCENE_TRIGGER"],
-        "actions": [
-            "turnOn",
-            "turnOff"
-            ],
-        "cookie": {}
-    },
-    {
-        "applianceId": "skyq-netflix",
-        "manufacturerName": "Sky",
-        "version": "1",
-        "friendlyName": "Netflix",
-        "description": "Netflix scene via Sky Q",
-        "isReachable": True,
-        "displayCategories":["SCENE_TRIGGER"],
-        "actions": [
-            "turnOn",
-            "turnOff"
-            ],
-        "cookie": {}
-    },
-    {
-        "applianceId": "skyq-youtube",
-        "manufacturerName": "Sky",
-        "version": "1",
-        "friendlyName": "YouTube",
-        "description": "YouTube scene via Sky Q",
-        "isReachable": True,
-        "displayCategories":["SCENE_TRIGGER"],
-        "actions": [
-            "turnOn",
-            "turnOff"
-            ],
-        "cookie": {}
-    },
-    {
-        "applianceId": "skyq-spotify",
-        "manufacturerName": "Sky",
-        "version": "1",
-        "friendlyName": "Spotify",
-        "description": "Spotify scene via Sky Q",
-        "isReachable": True,
-        "displayCategories":["SCENE_TRIGGER"],
-        "actions": [
-            "turnOn",
-            "turnOff"
-            ],
-        "cookie": {}
-    },
-    {
-        "applianceId": "skybox-subtitles",
-        "manufacturerName": "Sky",
-        "version": "1",
-        "friendlyName": "Subtitles",
-        "description": "Sky Subtitles scene via Sky Digibox",
-        "isReachable": True,
-        "displayCategories":["SCENE_TRIGGER"],
-        "actions": [
-            "turnOn",
-            "turnOff"
-            ],
-        "cookie": {}
-    },
-    {
-        "applianceId": "skybox-audio-description",
-        "manufacturerName": "Sky",
-        "version": "1",
-        "friendlyName": "Audio Description",
-        "description": "Sky Audio Description scene via Sky Digibox",
-        "isReachable": True,
-        "displayCategories":["SCENE_TRIGGER"],
-        "actions": [
-            "turnOn",
-            "turnOff"
-            ],
-        "cookie": {}
-    },
-    {
-        "applianceId": "skybox-info",
-        "manufacturerName": "Sky",
-        "version": "1",
-        "friendlyName": "Info",
-        "description": "Sky Info scene via Sky Digibox",
-        "isReachable": True,
-        "displayCategories":["SCENE_TRIGGER"],
-        "actions": [
-            "turnOn",
-            "turnOff"
-            ],
-        "cookie": {}
+    # },
+    # {
+    #     "applianceId": "skybox-tvguide",
+    #     "manufacturerName": "Sky",
+    #     "version": "1",
+    #     "friendlyName": "TV Guide",
+    #     "description": "Sky TV Guide scene via Sky Digibox",
+    #     "isReachable": True,
+    #     "displayCategories":["SCENE_TRIGGER"],
+    #     "actions": [
+    #         "turnOn",
+    #         "turnOff"
+    #         ],
+    #     "cookie": {}
+    # },
+    # {
+    #     "applianceId": "skyq-netflix",
+    #     "manufacturerName": "Sky",
+    #     "version": "1",
+    #     "friendlyName": "Netflix",
+    #     "description": "Netflix scene via Sky Q",
+    #     "isReachable": True,
+    #     "displayCategories":["SCENE_TRIGGER"],
+    #     "actions": [
+    #         "turnOn",
+    #         "turnOff"
+    #         ],
+    #     "cookie": {}
+    # },
+    # {
+    #     "applianceId": "skyq-youtube",
+    #     "manufacturerName": "Sky",
+    #     "version": "1",
+    #     "friendlyName": "YouTube",
+    #     "description": "YouTube scene via Sky Q",
+    #     "isReachable": True,
+    #     "displayCategories":["SCENE_TRIGGER"],
+    #     "actions": [
+    #         "turnOn",
+    #         "turnOff"
+    #         ],
+    #     "cookie": {}
+    # },
+    # {
+    #     "applianceId": "skyq-spotify",
+    #     "manufacturerName": "Sky",
+    #     "version": "1",
+    #     "friendlyName": "Spotify",
+    #     "description": "Spotify scene via Sky Q",
+    #     "isReachable": True,
+    #     "displayCategories":["SCENE_TRIGGER"],
+    #     "actions": [
+    #         "turnOn",
+    #         "turnOff"
+    #         ],
+    #     "cookie": {}
+    # },
+    # {
+    #     "applianceId": "skybox-subtitles",
+    #     "manufacturerName": "Sky",
+    #     "version": "1",
+    #     "friendlyName": "Subtitles",
+    #     "description": "Sky Subtitles scene via Sky Digibox",
+    #     "isReachable": True,
+    #     "displayCategories":["SCENE_TRIGGER"],
+    #     "actions": [
+    #         "turnOn",
+    #         "turnOff"
+    #         ],
+    #     "cookie": {}
+    # },
+    # {
+    #     "applianceId": "skybox-audio-description",
+    #     "manufacturerName": "Sky",
+    #     "version": "1",
+    #     "friendlyName": "Audio Description",
+    #     "description": "Sky Audio Description scene via Sky Digibox",
+    #     "isReachable": True,
+    #     "displayCategories":["SCENE_TRIGGER"],
+    #     "actions": [
+    #         "turnOn",
+    #         "turnOff"
+    #         ],
+    #     "cookie": {}
+    # },
+    # {
+    #     "applianceId": "skybox-info",
+    #     "manufacturerName": "Sky",
+    #     "version": "1",
+    #     "friendlyName": "Info",
+    #     "description": "Sky Info scene via Sky Digibox",
+    #     "isReachable": True,
+    #     "displayCategories":["SCENE_TRIGGER"],
+    #     "actions": [
+    #         "turnOn",
+    #         "turnOff"
+    #         ],
+    #     "cookie": {}
     }
     ]
 
